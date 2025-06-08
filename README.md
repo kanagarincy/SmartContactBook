@@ -1,5 +1,5 @@
 # SmartContactBook
-Smart Contact Book is a simple Java console application to manage contacts. It allows users to add, view, search, update, and delete contacts. Built using core Java and OOP concepts, this project is ideal for beginners to understand basic programming and object-oriented design.
+Smart Contact Book is a simple Java console application to manage contacts. It allows users to add, view, search, update, and delete contacts. Built using core Java and object-oriented programming (OOP) concepts, this project is ideal for beginners to understand basic programming and object-oriented design principles.
 # Smart Contact Book
 
 Smart Contact Book is a simple Java console application used to manage contact information. It allows users to add, view, search, update, and delete contacts using a menu-driven interface. This project is ideal for beginners learning object-oriented programming in Java.
@@ -8,7 +8,7 @@ Smart Contact Book is a simple Java console application used to manage contact i
 
 - Add a new contact (name, phone, email)
 - View all saved contacts
-- Search a contact by name
+- Search for a contact by name
 - Update contact details (phone and email)
 - Delete a contact
 
@@ -38,16 +38,11 @@ Smart Contact Book is a simple Java console application used to manage contact i
 
 Contact Book Menu:
 
-Add Contact
-
-View Contacts
-
-Search Contact
-
-Update Contact
-
-Delete Contact
-
-Exit
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4.Update Contact
+5. Delete Contact
+6. Exit
 Enter your choice:
 
